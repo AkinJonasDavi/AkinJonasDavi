@@ -50,5 +50,5 @@ Eu tenho experiência com uma série de pacotes python populares, incluindo Nump
 
 ## Status GitHub 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mayurankv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayurankv&theme=tokyonight&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=akinjonasdavi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=akinjonasdavi&theme=tokyonight&hide_border=true)
