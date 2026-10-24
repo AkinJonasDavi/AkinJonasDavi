@@ -9,9 +9,9 @@
 
 Meu nome é Jonas Andrade e estou atualmente participando do curso de Ciência da Computação - Licenciatura na Universidade Federal Rural de Pernambuco. Meus interesses incluem IOT, infraestrutura de redes e manutenção de hardware, bem como poesia, arte e música. Também adoro testar softwares open-source e atualmente pretendo aprender Java. A minha cor favorita é a laranja :)
 
-Minhas ferramentas favoritas são o VSCodium para desenvolvimento e o Obsidian para anotações sobre ideias de projetos, codificação e anotações diversas, embora eu prefira criar documentos em L A T E X utilizando o Zattlr.
+Minhas ferramentas favoritas são o VSCodium para desenvolvimento e o Obsidian para anotações sobre ideias de projetos, codificação e anotações diversas, embora eu prefira criar documentos em $\LaTeX$ utilizando o Zattlr.
 
-Atualmente, estou procurando funções em Suporte Técnico e Infraestrutura. Se você está contratando atualmente nessas funões, por favor, confira meu [CV]()
+Atualmente, estou procurando funções em Suporte Técnico e Infraestrutura. Se você está contratando atualmente nessas funões, por favor, confira meu [CV](Cv_JonasD(UTEC).pdf)
 
 ---
 
