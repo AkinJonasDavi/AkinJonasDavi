@@ -11,7 +11,7 @@ Meu nome é Jonas Andrade e estou atualmente participando do curso de Ciência d
 
 Minhas ferramentas favoritas são o VSCodium para desenvolvimento e o Obsidian para anotações sobre ideias de projetos, codificação e anotações diversas, embora eu prefira criar documentos em $\LaTeX$ utilizando o Zattlr.
 
-Atualmente, estou procurando funções em Suporte Técnico e Infraestrutura. Se você está contratando atualmente nessas funões, por favor, confira meu [CV](Cv_JonasD(UTEC).pdf)
+Atualmente, estou procurando funções em Suporte Técnico e Infraestrutura. Se você está contratando atualmente nessas funções, por favor, confira meu [CV](Cv_JonasD(UTEC).pdf)
 
 ---
 
@@ -24,7 +24,7 @@ Atualmente, estou procurando funções em Suporte Técnico e Infraestrutura. Se 
 ![C](https://img.shields.io/badge/C-purple.svg?style=for-the-badge&logo=c)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Tenho experiência em algumas linguagens de programação com experiência intermediária em Python. Isso inclui uma compreensão detalhada de bibliotecas e arquitetura de dados. Também tenho experiência intermediária em Excel e C.
+Tenho experiência em algumas linguagens de programação, com experiência intermediária em Python. Isso inclui uma compreensão de bibliotecas e arquitetura de dados. Também tenho experiência intermediária em Excel e C.
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
@@ -33,7 +33,7 @@ Meu conjunto de habilidades também inclui conhecimento avançado de terminal li
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-Eu também tenho uma vasta experiência com os linguagens $\LaTeX$ de marcação e Markdown para a criação de documentos profissionais e acadêmicos.
+Eu também tenho uma vasta experiência com as linguagens $\LaTeX$ de marcação e Markdown para a criação de documentos profissionais e acadêmicos.
 
 ### Python
 
