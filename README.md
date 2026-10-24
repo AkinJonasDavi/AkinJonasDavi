@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/j0nascruzz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://github.com/AkinJonasDavi)
 
-Meu nome é Jonas Andrade e estou atualmente participando do curso de Ciência da Computação - Licenciatura na Universidade Federal Rural de Pernambuco. Meus interesses incluem IOT, infraestrutura de redes e manutenção de hardware, bem como poesia, arte e música. Também adoro testar softwares open-source e atualmente pretendo aprender Java. A minha cor favorita é a laranja :)
+Meu nome é Jonas Andrade e estou atualmente participando do curso de Ciência da Computação - Licenciatura na Universidade Federal Rural de Pernambuco. Meus interesses incluem IOT, infraestrutura de redes e manutenção de hardware, bem como poesia, arte e música. Também adoro testar softwares open-source e atualmente pretendo aprender Java.
 
 Minhas ferramentas favoritas são o VSCodium para desenvolvimento e o Obsidian para anotações sobre ideias de projetos, codificação e anotações diversas, embora eu prefira criar documentos em $\LaTeX$ utilizando o Zattlr.
 
