@@ -1,6 +1,6 @@
 # Jonas Andrade
 
-## About Me
+## Sobre Mim
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akinjonasdavi&style=for-the-badge&color=dc143c)
 
@@ -48,7 +48,7 @@ Eu também tenho uma vasta experiência com os linguagens $\LaTeX$ de marcação
 
 Eu tenho experiência com uma série de pacotes python populares, incluindo Numpy, Pandas, SciPy e SciKit-Learn. Também tenho experiência com as bibliotecas de aprendizado de máquina PyTorch e Tensorflow.
 
-## GitHub Stats
+## Status GitHub 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mayurankv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayurankv&theme=tokyonight&hide_border=true)
